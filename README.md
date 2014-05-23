@@ -12,3 +12,6 @@ Create a div, reference spreadsheet.js, and call sheeetz(). Optionally you can p
         rows: 20, 
         cols: 20
     });
+
+Example
+    http://jsfiddle.net/smith_h_neil/4sRaT/53/embedded/result/
